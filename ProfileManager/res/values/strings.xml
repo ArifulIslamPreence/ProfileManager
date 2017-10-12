@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ProfileManager</string>
+    <string name="btn_start">Start Profile Manager</string>
+    <string name="btn_stop">Stop Profile Manager</string>
+
+</resources>
